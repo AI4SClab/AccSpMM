@@ -1,10 +1,3 @@
-# Acc-SpMM
-
-
-- This repository is the official implementation of Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores, PPoPP2025.
-    - [arXiv](https://arxiv.org/pdf/2501.09251)
-    - [ACM Digital Library](https://dl.acm.org/doi/10.1145/3710848.3710888)
-
 
 ## Requirements
 
